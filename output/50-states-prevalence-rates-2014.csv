@@ -1,0 +1,53 @@
+,GEO ID,State,State Rate,State Cases,Black Rate,Black Cases,New England State
+8,11,"Washington, D.C.",2665,15200,4187,11012,False
+32,36,New York,782,130753,2154,51989,False
+20,24,Maryland,639,32002,1642,23879,False
+9,12,Florida,609,103696,1936,48561,False
+51,72,Puerto Rico,567,17072,-9,4,False
+10,13,Georgia,564,46870,1286,32265,False
+18,22,Louisiana,493,18950,1084,12920,False
+30,34,New Jersey,475,35682,1698,16321,False
+7,10,Delaware,407,3213,1160,1890,False
+40,45,South Carolina,394,15942,1022,11016,False
+4,6,California,371,119589,1120,21050,False
+24,28,Mississippi,364,8983,734,6539,False
+43,48,Texas,357,77896,1120,28759,False
+28,32,Nevada,356,8405,1028,1976,False
+33,37,North Carolina,348,28897,1037,18155,False
+6,9,Connecticut,335,10236,1149,3386,True
+21,25,Massachusetts,334,19290,1477,5578,True
+13,17,Illinois,324,34843,1086,16301,False
+46,51,Virginia,311,21740,967,12684,False
+38,42,Pennsylvania,309,33593,1452,16251,False
+0,1,Alabama,306,12439,764,7995,False
+42,47,Tennessee,295,16163,1008,8975,False
+2,4,Arizona,265,14726,804,1779,False
+5,8,Colorado,252,11199,921,1602,False
+39,44,Rhode Island,250,2264,1073,524,True
+11,15,Hawaii,230,2741,552,146,False
+25,29,Missouri,228,11560,889,5045,False
+3,5,Arkansas,210,5174,622,2271,False
+35,39,Ohio,205,19911,760,8747,False
+47,53,Washington,204,12030,870,1867,False
+14,18,Indiana,188,10279,764,3705,False
+37,41,Oregon,187,6275,721,419,False
+31,35,New Mexico,180,3096,582,189,False
+22,26,Michigan,179,14944,746,8409,False
+17,21,Kentucky,177,6511,761,2178,False
+36,40,Oklahoma,176,5605,566,1307,False
+23,27,Minnesota,167,7549,1136,2599,False
+27,31,Nebraska,131,2014,827,558,False
+19,23,Maine,126,1454,1396,181,True
+49,55,Wisconsin,123,5952,801,2252,False
+45,50,Vermont,122,662,1225,70,True
+16,20,Kansas,121,2884,520,710,False
+48,54,West Virginia,120,1896,840,460,False
+44,49,Utah,115,2618,1014,232,False
+29,33,New Hampshire,108,1240,1108,145,True
+1,2,Alaska,106,637,374,80,False
+15,19,Iowa,91,2355,570,439,False
+12,16,Idaho,78,1031,899,75,False
+41,46,South Dakota,70,492,978,110,False
+26,30,Montana,64,548,417,18,False
+50,56,Wyoming,56,269,344,23,False
+34,38,North Dakota,50,306,755,86,False

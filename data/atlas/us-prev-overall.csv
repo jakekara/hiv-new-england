@@ -1,0 +1,15 @@
+﻿"Date Printed: Thursday, June 21, 2018 8:17:42 AM"
+Title: HIV prevalence | 2015 | 2014 | 2013 | 2012 | 2011 | 2010 | 2009 | 2008 | United States | All races/ethnicities | Both sexes | Ages 13 years and older | All transmission categories
+"Footnote(s): AIDS diagnoses and HIV diagnoses data for the year 2016 are preliminary and based on 6 months reporting delay. Therefore, trend data should only be viewed through the year 2015 to allow sufficient time (at least 12 months) for reporting of case information to accurately assess trends. Prevalence data prior to 2010 are based on residence at diagnosis; prevalence data from 2010 to present are based on most recent known address. Death data based on residence at death. Data adjusted for missing transmission category."
+NA - Not applicable
+
+
+Indicator,Year,Geography,FIPS,Age Group,Race/Ethnicity,Sex,Transmission Category,Cases,Rate per 100000,Population
+"HIV prevalence","2015","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","971,524",362.3,"268,159,414"
+"HIV prevalence","2011","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","871,458",336.8,"258,743,354"
+"HIV prevalence","2012","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","896,979",343.5,"261,147,538"
+"HIV prevalence","2014","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","946,029",355.8,"265,896,564"
+"HIV prevalence","2013","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","921,188",349.6,"263,493,179"
+"HIV prevalence","2008","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","788,114",314,"251,009,998"
+"HIV prevalence","2009","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","815,891",322.2,"253,253,138"
+"HIV prevalence","2010","United States","NA","Ages 13 years and older","All races/ethnicities","Both sexes","All transmission categories","845,351",329.7,"256,410,896"

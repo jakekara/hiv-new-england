@@ -1,0 +1,11 @@
+State Abbreviation,County Name,County Rate,County Rate Stability,County Cases,Black Rate,Black Rate Stability,Black Cases
+MA,Suffolk County,854,Y,5731,1618,Y,2169
+MA,Hampden County,473,Y,1871,1145,Y,345
+CT,New Haven County,423,Y,3112,1346,Y,1178
+MA,Barnstable County,374,Y,716,1029,Y,43
+CT,Hartford County,354,Y,2694,868,Y,830
+RI,Providence County,336,Y,1806,1067,Y,454
+CT,Fairfield County,324,Y,2560,1133,Y,948
+MA,Dukes County,285,Y,43,1129,N,6
+MA,Bristol County,271,Y,1282,1310,Y,226
+MA,Middlesex County,263,Y,3534,1918,Y,1218
