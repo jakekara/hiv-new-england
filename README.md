@@ -2,7 +2,7 @@
 
 Analysis for The Connecticut Mirror on HIV in New England by Jake Kara and Jamie Kasulis.
 
-Data from (CDC Atlas)[https://www.cdc.gov/nchhstp/atlas/index.htm], and available as obtained in the data/atlas folder of this repo.
+Data from [CDC Atlas](https://www.cdc.gov/nchhstp/atlas/index.htm), and available as obtained in the data/atlas folder of this repo.
 
 ### Files
 
